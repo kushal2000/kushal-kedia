@@ -6,7 +6,7 @@ title: Kushal Kedia
 superuser: true
 
 # Role/position
-role: Pre-Final Year UG Student
+role: Final-Year Undergraduate
 
 # Organizations/Affiliations
 organizations:
@@ -14,17 +14,18 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include reinforcement learning, information retrieval and robotics.
+bio: My research interests include motion planning, multi-agent systems and machine learning 
 
 interests:
-- Robotics 
+- Motion Planning 
+- Multi-Robot Systems 
 - Artificial Intelligence
 
 
 education:
   courses:
   - course: B.Tech in Electronics 
-    institution: Indian Institute of Technology, Kharagpur
+    institution: Indian Institute of Technology Kharagpur
     year: 2018 - 2022
 
 # Social/Academic Networking
@@ -63,4 +64,6 @@ highlight_name: false
 # - Visitors
 ---
 
-Hi! I am Kushal Kedia, an undergraduate 3rd year student of the Department of Electronics and Communication Engineering at IIT Kharagpur. I am an active member of the Software Team of Kharagpur Robosoccer Students Group and I head the Technology Robotix Society, which is a focal point for activities and projects related to robotics on campus. [[Resume]](files/cv.pdf)
+Hi! I am Kushal Kedia, a final-year undergraduate student at the Department of Electronics and Communication Engineering at IIT Kharagpur. I am interested in robotics and motion planning. Since the summer, I have been working on integrating machine learning for efficient kinodynamic planning under [Prof. Kostas Bekris](https://robotics.cs.rutgers.edu/pracsys/members/kostas-bekris/) at Rutgers University. Apart from this, I am developing optimal algorithms for Multi-Agent Path Finding in my undergraduate thesis.
+
+I am also an active member of the Kharagpur Robosoccer Students' Group and the Technology Robotix Society on campus, which are focal points for student-led activities and projects related to robotics. [[Resume]](files/cv.pdf)

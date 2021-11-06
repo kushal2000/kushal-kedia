@@ -1,25 +1,25 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Kgp Kubs at Robocup Humanoid League - Team Description Paper"
-authors: [Kushal Kedia, Taapas Agarwal, Sriyash Poddar, Astitva Sharma, et al]
-date: 2021-07-06T19:15:34+05:30
+title: "Offensive Language Identification in Dravidian Languages"
+authors: [Kushal Kedia, Abhilash Nandy - Dravidian-Lang-Tech Workshop at EACL 2021]
+date: 2021-2-06T19:15:34+05:30
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-07-06T19:15:34+05:30
+publishDate: 2020-11-06T19:15:34+05:30
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
 
-abstract: "This paper reports the recent developments by the Kgp Kubs team. It describes the work on movement, formation strategies, heuristic role assignment and techniques used to improve the game play."
+abstract: "The paper presents the submission of the team indicnlp@kgp to the EACL 2021 shared task 'Offensive Language Identification in Dravidian Languages.' The task aimed to classify different offensive content types in 3 code-mixed Dravidian language datasets. The work leverages existing state of the art approaches in text classification by incorporating additional data and transfer learning on pre-trained models. Our final submission is an ensemble of an AWD-LSTM based model along with 2 different transformer model architectures based on BERT and RoBERTa. We achieved weighted-average F1 scores of 0.97, 0.77, and 0.72 in the Malayalam-English, Tamil-English, and Kannada-English datasets ranking 1st, 2nd, and 3rd on the respective tasks."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,14 +36,14 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://drive.google.com/file/d/1bObJFGFuekIdSEDZnEqDUpTp3H7yQEo0/view?usp=sharing
-url_code: https://github.com/taapasX28/HumanoidRL
+url_pdf: https://arxiv.org/abs/2102.07150
+url_code: https://github.com/kushal2000/Dravidian-Offensive-Language-Identification
 url_dataset:
-url_poster:
+url_poster: https://drive.google.com/file/d/11v4H9T5tRU4IXtCnIiRfx2e9X5D7ZADP/view?usp=sharing
 url_project:
 url_slides:
 url_source:
-url_video: https://www.youtube.com/watch?v=6P3WkY_noGg
+url_video:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
