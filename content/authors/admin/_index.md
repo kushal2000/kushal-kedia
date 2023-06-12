@@ -69,9 +69,10 @@ highlight_name: true
 
 I am a second-year Computer Science Ph.D. student in the [People and Robot Teaching and Learning (PoRTaL) group](https://portal.cs.cornell.edu/) at Cornell University. I received my B.Tech. in Electronics from the Indian Institute of Technology (IIT) Kharagpur in 2022.
 
-My research interests lie in the intersection of robotics, machine learning, and human-robot interaction. I am currently working with [Prof. Sanjiban Choudhury](https://www.sanjibanchoudhury.com/) on human motion forecasting for collaborative manipulation.
+My research interests lie in the intersection of robotics, machine learning, and human-robot interaction. I am currently working with [Prof. Sanjiban Choudhury](https://www.sanjibanchoudhury.com/) on human motion forecasting for collaborative robot manipulation.
 
-In my previous work, I have integrated machine learning to increase the efficiency of classical kinodynamic planning algorithms with [Prof. Kostas Bekris](https://robotics.cs.rutgers.edu/pracsys/members/kostas-bekris/), developed optimal algorithms for multi-agent path finding in my undergraduate thesis, and worked on large multilingual language models at [Microsoft Research Lab India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/).
+In my previous work, I have integrated machine learning to increase the efficiency of classical kinodynamic planning algorithms with [Prof. Kostas Bekris](https://robotics.cs.rutgers.edu/pracsys/members/kostas-bekris/), developed optimal algorithms for multi-agent path finding in my undergraduate thesis, and worked on large multilingual language models at [Microsoft Research Lab India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/). 
+                     [[Resume]](files/cv.pdf)
 
-During my undergraduate studies, I was an active member of the Kharagpur Robosoccer Students' Group and the Technology Robotix Society, focal points for student-led activities and projects related to robotics. [[Resume]](files/cv.pdf)
+<!-- During my undergraduate studies, I was an active member of the Kharagpur Robosoccer Students' Group and the Technology Robotix Society, focal points for student-led activities and projects related to robotics.  -->
 

@@ -22,13 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: PRACSYS Group at Rutgers University
+  - title: PoRTaL Group Cornell University
+    company: Robotics Researcher
+    company_url: ''
+    company_logo: 
+    # location: California
+    date_start: '2022-07-01'
+    date_end: ''
+  - title: PRACSYS Group Rutgers University
     company: Robotics Researcher
     company_url: ''
     company_logo: rutgers
     # location: California
     date_start: '2021-04-01'
-    date_end: ''
+    date_end: '2022-04-01'
     # description: Used past planner experience for kinodynamic motion planning in mobile robots
         
   - title: Microsoft Research Labs India
@@ -40,12 +47,12 @@ experience:
     date_end: '2021-08-31'
     # description: Built a model to predict performance of transformers on unseen languages
   - title: Kharagpur Robosoccer Students' Group
-    company: Humanoid Robotics Team Head
+    company: Humanoid Robotics Team
     company_url: ''
     company_logo: org-x
     # location: India
     date_start: '2020-02-01'
-    date_end: ''
+    date_end: '2022-04-01'
 
 design:
   columns: '2'
