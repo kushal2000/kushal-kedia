@@ -1,32 +1,35 @@
 ---
 # Display name
-title: Kushal Kedia
+title: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Final-Year Undergraduate
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: IIT Kharagpur
+- name: Cornell University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include motion planning, multi-agent systems and machine learning 
+bio: 
 
 interests:
-- Motion Planning 
-- Multi-Robot Systems 
-- Artificial Intelligence
+- Robot Learning
+- Human-Robot Interaction
+- Motion Planning
 
 
 education:
   courses:
+  - course: Ph.D. in Computer Science
+    institution: Cornell University
+    year: 2022-
   - course: B.Tech in Electronics 
     institution: Indian Institute of Technology Kharagpur
-    year: 2018 - 2022
+    year: 2018-2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -35,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:kushal.k.2000@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:kk837@cornell.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/kushalk_
@@ -52,10 +55,10 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "kushal.k.2000@gmail.com"
+email: "kk837@cornell.edu"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -64,6 +67,11 @@ highlight_name: false
 # - Visitors
 ---
 
-Hi! I am Kushal Kedia, a final-year undergraduate student at the Department of Electronics and Communication Engineering at IIT Kharagpur. I am interested in robotics and motion planning. Since the summer, I have been working on integrating machine learning for efficient kinodynamic planning under [Prof. Kostas Bekris](https://robotics.cs.rutgers.edu/pracsys/members/kostas-bekris/) at Rutgers University. Apart from this, I am developing optimal algorithms for Multi-Agent Path Finding in my undergraduate thesis.
+I am a second-year Computer Science Ph.D. student in the [People and Robot Teaching and Learning (PoRTaL) group](https://portal.cs.cornell.edu/) at Cornell University. I received my B.Tech. in Electronics from the Indian Institute of Technology (IIT) Kharagpur in 2022.
 
-I am also an active member of the Kharagpur Robosoccer Students' Group and the Technology Robotix Society on campus, which are focal points for student-led activities and projects related to robotics. [[Resume]](files/cv.pdf)
+My research interests lie in the intersection of robotics, machine learning, and human-robot interaction. I am currently working with [Prof. Sanjiban Choudhury](https://www.sanjibanchoudhury.com/) on human motion forecasting for collaborative manipulation.
+
+In my previous work, I have integrated machine learning to increase the efficiency of classical kinodynamic planning algorithms with [Prof. Kostas Bekris](https://robotics.cs.rutgers.edu/pracsys/members/kostas-bekris/), developed optimal algorithms for multi-agent path finding in my undergraduate thesis, and worked on large multilingual language models at [Microsoft Research Lab India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/).
+
+During my undergraduate studies, I was an active member of the Kharagpur Robosoccer Students' Group and the Technology Robotix Society, focal points for student-led activities and projects related to robotics. [[Resume]](files/cv.pdf)
+
